@@ -1,3 +1,8 @@
+# This is a fork!
+Forked from https://github.com/thedathoudarya/WAGU-data-in-table-view
+
+I added a pom so that this can be built / installed via maven. I also cleaned up the structure a bit (package names, etc) but made no changes to the classes themselves.
+
 # Wagu
 Wagu helps you to present your data (text) in tables and blocks.
 I've add some examples [here](https://github.com/thedathoudarya/wagu/tree/wagu-branch/examples) to show how Wagu makes your life easy on above manner. Following are some of the examples in terminal-outputs with relavent code. I will add more examples eventually, to show you how to handle Wagu in various ways to build your text according to your own desire.
